@@ -13,6 +13,12 @@ easy-asp-demo
 
 运行截图:
     /snap/*.png
+    
+![首页](https://raw.github.com/soulteary/easy-asp-demo/master/snap/insatll-home.png)
+
+
+![主界面](https://raw.github.com/soulteary/easy-asp-demo/master/snap/main.png)
+
 
 开发流程：
 =========
